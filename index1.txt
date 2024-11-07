@@ -1,2 +1,6 @@
 index1 second chane ilhan
+<<<<<<< HEAD
 changes made to second line
+=======
+remote repo
+>>>>>>> da51ed2b7aad8f39056edbd2583ca72a7ec37958
